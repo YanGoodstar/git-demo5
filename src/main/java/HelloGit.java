@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("修改一");
+        System.out.println("master");
     }
 }
